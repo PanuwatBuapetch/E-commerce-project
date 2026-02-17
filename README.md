@@ -10,12 +10,6 @@
 
 ---
 
-## 📸 Screenshots
-
-*(Place your screenshot here)*
-
----
-
 ## 🚀 Tech Stack
 
 ### **Frontend**
